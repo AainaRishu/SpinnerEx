@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerEx</string>
+    <string-array name="gender">
+        <item>Select Any One</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>TransGender</item>
+    </string-array>
+</resources>
